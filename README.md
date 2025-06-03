@@ -1,7 +1,8 @@
 # What It Takes to Win Olympic Snowboard Medals
-Winners' data collected from
+**Athlete's data collected from**
 
 [Snowboarding at the Winter Olympics](https://en.wikipedia.org/wiki/Snowboarding_at_the_Winter_Olympics)
+
 [Athlete count for Snowboarding](https://www.olympedia.org/counts/sport/SBD)
 
 
