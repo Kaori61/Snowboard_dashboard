@@ -6,7 +6,9 @@
 [Athlete count for Snowboarding](https://www.olympedia.org/counts/sport/SBD)
 
 **Data is collected in an Excel file**
+
 [Olympics snowboard medalist 2.xlsx](https://github.com/user-attachments/files/20654425/Olympics.snowboard.medalist.2.xlsx)
 
-**Photo source**
-[Snoeboard icon](https://www.istockphoto.com/search/2/image?mediatype=illustration&phrase=snowboarding+icon)
+**Icons source**
+
+[iStock](https://www.istockphoto.com/search/2/image?mediatype=illustration&phrase=snowboarding+icon)
