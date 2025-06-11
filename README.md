@@ -62,7 +62,7 @@ Access interactive dashboard on [Tableau public](https://public.tableau.com/shar
 
 Success in Olympic snowboarding isn’t just about natural talent. Our analysis highlights the importance of:
 - **Early engagement and long-term training**
-- **Specialization within events**
+- **Specialisation within events**
 - **Peak age performance trends**
 - **Country size doesn’t determine success**
 
