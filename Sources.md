@@ -5,6 +5,8 @@
 
 [Athlete count for Snowboarding](https://www.olympedia.org/counts/sport/SBD)
 
+Ref 1: [Global Sports Sponsorship Market](https://straitsresearch.com/report/sports-sponsorship-market#:~:text=Europe%20region%20holds%20a%20significant%20market%20share,for%20the%20diversity%20of%20their%20sporting%20interest.)
+
 **📗 Data is organised into an Excel file**
 
 [Olympics snowboard medalist 2.xlsx](https://github.com/user-attachments/files/20654425/Olympics.snowboard.medalist.2.xlsx)
